@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "@ornikar/eslint-config-babel",
+        "@ornikar/eslint-config-react"
+    ]
+}
